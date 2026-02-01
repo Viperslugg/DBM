@@ -1,3 +1,3 @@
-# **CS-Fresh**
+# **Comp Organization**
 
-Welcome to CS Fresh! This stands for Computer Science Fresh, a fun term to describe this repository's work on writing C and assembly language programs for the computer to read. This repository will be updated continuously.
+Welcome to this repository. It will be a platform for C programming and writing machine learning code/computer assembly language.
