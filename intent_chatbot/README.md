@@ -1,1 +1,2 @@
-
+This contains code and explanation to implement a simple intent-based chatbot, a chatbot that receives an input message (in this application, a question) and output a response to that question.
+The model is trained on `german.json` and should give two files: `dimensions.json` and `chatbot_model.pth`, which are not in this directory. A python file, `main.py` is provided to run the code in a continuous process, but is used for typing an input message into the terminal when prompted.
