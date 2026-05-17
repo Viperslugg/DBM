@@ -1,1 +1,1 @@
-
+`seq2seq.ipynb` is written and ran on Google Colab using the available GPU. Unfortunately, the file appears to be invalid and unable to be uploaded onto GitHub due to an error rendering your Notebook: the 'state' key is missing from 'metadata.widgets'.
